@@ -1,2 +1,2 @@
 # Digital-Image-Processing
-PhotoSystem--Color process
+PhotoSystem based on Visual Studio MFC , Opencv ,Dlib ,Opencv-Contrib
