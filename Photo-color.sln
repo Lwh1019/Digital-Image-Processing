@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34902.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Photo-color", "Photo-color.vcxproj", "{7EBF9564-ED1E-48A2-B7ED-D658D74CD306}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7EBF9564-ED1E-48A2-B7ED-D658D74CD306}.Debug|x64.ActiveCfg = Debug|x64
+		{7EBF9564-ED1E-48A2-B7ED-D658D74CD306}.Debug|x64.Build.0 = Debug|x64
+		{7EBF9564-ED1E-48A2-B7ED-D658D74CD306}.Debug|x86.ActiveCfg = Debug|Win32
+		{7EBF9564-ED1E-48A2-B7ED-D658D74CD306}.Debug|x86.Build.0 = Debug|Win32
+		{7EBF9564-ED1E-48A2-B7ED-D658D74CD306}.Release|x64.ActiveCfg = Release|x64
+		{7EBF9564-ED1E-48A2-B7ED-D658D74CD306}.Release|x64.Build.0 = Release|x64
+		{7EBF9564-ED1E-48A2-B7ED-D658D74CD306}.Release|x86.ActiveCfg = Release|Win32
+		{7EBF9564-ED1E-48A2-B7ED-D658D74CD306}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {55E947A0-B43A-4B83-8AEF-6D0A3C8C4462}
+	EndGlobalSection
+EndGlobal
