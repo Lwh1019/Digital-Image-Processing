@@ -1,6 +1,9 @@
 # Digital-Image-Processing
 PhotoSystem based on Visual Studio MFC , Opencv ,Dlib ,Opencv-Contrib    based On C++
 
+文件中有一些model都是用图片显示名字的，需要自行下载；  使用的时候 opencv_world490d.dll 库都要配好
+
+
 数字图像处理技术 课  
 
 一、Photo-solve  图像美化系统  
